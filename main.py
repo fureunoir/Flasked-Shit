@@ -5,10 +5,16 @@ app = Flask(__name__, static_url_path='/static')
 
 @app.route('/home/')
 def home():
-    return '''<body background="static/img/bgimg.gif">
-
-    </body>'''
-
+    return '''<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<div id="background-image-container">
+<img id="background-image" src="static/img/bgimg.gif" style="opacity: 1; display: block;" width="1440" height="1024">
+</div>
+</body>
+</html>'''
 
 
 
