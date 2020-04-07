@@ -90,7 +90,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584573061962</updated>
-      <workItem from="1586141150740" duration="5208000" />
+      <workItem from="1586141150740" duration="6142000" />
     </task>
     <task id="LOCAL-00001" summary="da first">
       <created>1586149719479</created>
@@ -99,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586149719479</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="damn bg img outta">
+      <created>1586152098016</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1586152098016</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,9 +125,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="da first" />
-    <option name="LAST_COMMIT_MESSAGE" value="da first" />
+    <MESSAGE value="damn bg img outta" />
+    <option name="LAST_COMMIT_MESSAGE" value="damn bg img outta" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Flasked_Shit$main.coverage" NAME="main Coverage Results" MODIFIED="1586152053041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Flasked_Shit$main.coverage" NAME="main Coverage Results" MODIFIED="1586263389605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
