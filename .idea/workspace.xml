@@ -4,6 +4,7 @@
     <list default="true" id="1bffc99d-c187-4167-a9e8-299f40be40c8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/style.css" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -90,7 +91,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584573061962</updated>
-      <workItem from="1586141150740" duration="6142000" />
+      <workItem from="1586141150740" duration="7456000" />
     </task>
     <task id="LOCAL-00001" summary="da first">
       <created>1586149719479</created>
@@ -106,7 +107,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586152098016</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="bg img broken daaaaamn">
+      <created>1586263442360</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1586263442360</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,9 +134,10 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="da first" />
     <MESSAGE value="damn bg img outta" />
-    <option name="LAST_COMMIT_MESSAGE" value="damn bg img outta" />
+    <MESSAGE value="bg img broken daaaaamn" />
+    <option name="LAST_COMMIT_MESSAGE" value="bg img broken daaaaamn" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Flasked_Shit$main.coverage" NAME="main Coverage Results" MODIFIED="1586263389605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Flasked_Shit$main.coverage" NAME="main Coverage Results" MODIFIED="1586264670388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
